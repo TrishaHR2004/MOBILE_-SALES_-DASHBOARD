@@ -1,4 +1,4 @@
-# MOBILE_-SALES_-DASHBOARD
+# MOBILE-SALES-DASHBOARD
 📈 Sales Performance Analysis Dashboard (Power BI)
 
 This repository contains my Power BI dashboards created to analyze and visualize sales performance data.
